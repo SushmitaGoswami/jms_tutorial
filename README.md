@@ -1,5 +1,5 @@
 # What is messaging?
->Messaging service allows multiple heterogenous application to communicate with the following added advantages over shared data(database, file) mechanism.
+Messaging service allows multiple heterogenous application to communicate with the following added advantages over shared data(database, file) mechanism.
 
 >- Heterogenous applications can communicate irrespective of the implementation language.
 >- Makes the applications loosley coupled. In this context, the difference between rest service and messaging service is that rest services doesn't ensure the durability of the messages. It may be lost. 
